@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "PlayersInteractions",
+    "description": "Player interactions",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    	"phaseid": {
+            "description": "The unique identifier for a phaseid",
+            "type": "string"
+        },
+        "n": {
+            "description": "Number of players in phase",
+            "type": "integer"
+        },
+        "d": {
+            "description": "Number of connections between players",
+            "type": "integer"
+        },
+        "duration": {
+            "description": "Duration in seconds of game",
+            "type": "integer"
+        },
+        "player" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+               		"timestamp": {
+            		"description": "Timestamp",
+            		"type": "string"
+        			},
+        			"second": {
+            		"description": "Count by second",
+            		"type": "integer"
+        			},
+        	   		"playeridint": {
+            		"description": "The unique identifier for a player",
+            		"type": "integer"
+        			},
+        			"payload": {
+            		"description": "Interaction payload",
+            		"type": "string"
+        			},
+        			"playerid": {
+            		"description": "The unique identifier for a player",
+            		"type": "string"
+        			},
+        			"initialparameter": {
+            		"description": "Initial parameter to show in visualization",
+            		"type": "string"
+        			},
+        			"actionid": {
+            		"description": "Action id",
+            		"type": "number"
+        			}
+       			}
+       		}
+     	}  
+    },
+    "required": ["phaseid"]
+    }
+}
+

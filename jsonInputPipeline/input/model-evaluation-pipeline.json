@@ -1,0 +1,20 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h1",
+       			"experimentspath":"data-analytics-pipeline/test/results/h7/output",
+       			"experiments":"n15d4",
+        		 "model": "outputk4",
+        		 "modelcompare":"static_markov,dynamic_model",
+        		 "simulations": "circleN15L1,circleN15L2,circleN15L3,circleN15L4"
+      		},
+      		{
+       			"function": "h2",
+        		 "model1": "m1",
+        		 "model1weight": "0.3",
+        		 "model2": "m2",
+        		 "model2weight": "0.7"
+      		}
+    	]
+}

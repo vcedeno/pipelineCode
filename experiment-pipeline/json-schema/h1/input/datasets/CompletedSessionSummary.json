@@ -1,0 +1,484 @@
+{
+    "CompletedSessionSummary": [
+        {
+            "session_code": "5ydhsfg6",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "8",
+            "n_part_finished": "6",
+            "start_time": "7/21/17 19:43",
+            "duration": "22.1",
+            "total_cost": "$14.70 "
+        },
+        {
+            "session_code": "gbwspag3",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "10",
+            "n_part_finished": "7",
+            "start_time": "7/26/17 15:41",
+            "duration": "107.0166667",
+            "total_cost": "$6.23 "
+        },
+        {
+            "session_code": "89ykytnu",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "10",
+            "n_part_finished": "9",
+            "start_time": "7/27/17 20:32",
+            "duration": "23.45555556",
+            "total_cost": "$25.34 "
+        },
+        {
+            "session_code": "ef0hzbwg",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "9",
+            "n_part_finished": "5",
+            "start_time": "7/28/17 14:11",
+            "duration": "22.01333333",
+            "total_cost": "$14.51 "
+        },
+        {
+            "session_code": "jrseoprn",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "8",
+            "n_part_finished": "5",
+            "start_time": "8/8/17 13:48",
+            "duration": "21.75666667",
+            "total_cost": "$13.92 "
+        },
+        {
+            "session_code": "7tbi6mwd",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "6",
+            "n_part_finished": "5",
+            "start_time": "8/8/17 17:48",
+            "duration": "22.80333333",
+            "total_cost": "$11.27 "
+        },
+        {
+            "session_code": "pzv22f48",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "7",
+            "n_part_finished": "5",
+            "start_time": "8/16/17 15:05",
+            "duration": "20.22333333",
+            "total_cost": "$15.88 "
+        },
+        {
+            "session_code": "frec209s",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "9",
+            "n_part_finished": "8",
+            "start_time": "8/16/17 16:57",
+            "duration": "21.91041667",
+            "total_cost": "$18.46 "
+        },
+        {
+            "session_code": "wzq3kfp9",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "9",
+            "n_part_finished": "7",
+            "start_time": "8/16/17 17:28",
+            "duration": "26.25",
+            "total_cost": "$20.37 "
+        },
+        {
+            "session_code": "aab8cga3",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "10",
+            "n_part_consented": "10",
+            "n_part_finished": "5",
+            "start_time": "8/16/17 18:40",
+            "duration": "26.14",
+            "total_cost": "$14.83 "
+        },
+        {
+            "session_code": "kfn4hfj7",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "4",
+            "n_part_finished": "3",
+            "start_time": "8/24/17 17:02",
+            "duration": "25.36666667",
+            "total_cost": "$5.88 "
+        },
+        {
+            "session_code": "r7gyn3n4",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "5",
+            "n_part_finished": "4",
+            "start_time": "8/24/17 18:00",
+            "duration": "24.90416667",
+            "total_cost": "$9.75 "
+        },
+        {
+            "session_code": "vjdla1q9",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "5",
+            "n_part_finished": "4",
+            "start_time": "8/25/17 18:20",
+            "duration": "24.3875",
+            "total_cost": "$13.17 "
+        },
+        {
+            "session_code": "ehcc5wgj",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "5",
+            "n_part_finished": "4",
+            "start_time": "8/30/17 15:30",
+            "duration": "18.93333333",
+            "total_cost": "$11.25 "
+        },
+        {
+            "session_code": "ub8pim6i",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "4",
+            "n_part_finished": "3",
+            "start_time": "8/31/17 14:14",
+            "duration": "20.45",
+            "total_cost": "$8.69 "
+        },
+        {
+            "session_code": "942arxyx",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "3",
+            "n_part_finished": "2",
+            "start_time": "8/31/17 14:20",
+            "duration": "14.64166667",
+            "total_cost": "$7.93 "
+        },
+        {
+            "session_code": "emwpven2",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "4",
+            "n_part_finished": "4",
+            "start_time": "8/31/17 15:09",
+            "duration": "29.7",
+            "total_cost": "$8.43 "
+        },
+        {
+            "session_code": "oi2esved",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "5",
+            "n_part_consented": "3",
+            "n_part_finished": "2",
+            "start_time": "8/31/17 21:12",
+            "duration": "21.23333333",
+            "total_cost": "$4.73 "
+        },
+        {
+            "session_code": "2m9rd2cp",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "20",
+            "n_part_finished": "11",
+            "start_time": "9/7/17 16:45",
+            "duration": "35.25454545",
+            "total_cost": "$43.09 "
+        },
+        {
+            "session_code": "31f1vzlc",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "17",
+            "n_part_finished": "9",
+            "start_time": "9/8/17 14:17",
+            "duration": "30.9462963",
+            "total_cost": "$31.71 "
+        },
+        {
+            "session_code": "ya61mn6p",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "6",
+            "n_part_finished": "5",
+            "start_time": "9/8/17 16:25",
+            "duration": "32.41333333",
+            "total_cost": "$13.14 "
+        },
+        {
+            "session_code": "bquung7a",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "17",
+            "n_part_finished": "13",
+            "start_time": "9/11/17 18:36",
+            "duration": "29.69871795",
+            "total_cost": "$43.73 "
+        },
+        {
+            "session_code": "ty1ttrub",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "20",
+            "n_part_finished": "0",
+            "start_time": "11/29/17 22:08",
+            "duration": "0",
+            "total_cost": "$10.87 "
+        },
+        {
+            "session_code": "i0wkxelq",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "14",
+            "n_part_finished": "11",
+            "start_time": "9/12/17 17:17",
+            "duration": "25.94242424",
+            "total_cost": "$33.22 "
+        },
+        {
+            "session_code": "eu7tcyrg",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "16",
+            "n_part_finished": "12",
+            "start_time": "9/19/17 17:09",
+            "duration": "31.43472222",
+            "total_cost": "$36.36 "
+        },
+        {
+            "session_code": "krab6ohp",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "7",
+            "n_part_finished": "3",
+            "start_time": "9/26/17 20:04",
+            "duration": "29.84444444",
+            "total_cost": "$14.35 "
+        },
+        {
+            "session_code": "s14j5qtb",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "14",
+            "n_part_finished": "11",
+            "start_time": "10/2/17 17:16",
+            "duration": "30.83636364",
+            "total_cost": "$31.75 "
+        },
+        {
+            "session_code": "wc7b7s80",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "20",
+            "n_part_consented": "5",
+            "n_part_finished": "3",
+            "start_time": "10/3/17 17:07",
+            "duration": "28.98888889",
+            "total_cost": "$8.01 "
+        },
+        {
+            "session_code": "ltg4dv3d",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "14",
+            "n_part_finished": "9",
+            "start_time": "10/23/17 17:38",
+            "duration": "33.12222222",
+            "total_cost": "$32.20 "
+        },
+        {
+            "session_code": "oflc49un",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "10",
+            "n_part_finished": "7",
+            "start_time": "10/23/17 18:22",
+            "duration": "21.74047619",
+            "total_cost": "$19.75 "
+        },
+        {
+            "session_code": "h504sxxm",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "6",
+            "n_part_finished": "2",
+            "start_time": "10/24/17 2:49",
+            "duration": "34.36666667",
+            "total_cost": "$12.94 "
+        },
+        {
+            "session_code": "odl6fbvj",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "8",
+            "n_part_finished": "5",
+            "start_time": "10/25/17 15:01",
+            "duration": "30.81666667",
+            "total_cost": "$20.18 "
+        },
+        {
+            "session_code": "whxk45wo",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "14",
+            "n_part_finished": "8",
+            "start_time": "10/30/17 13:44",
+            "duration": "25.95833333",
+            "total_cost": "$28.13 "
+        },
+        {
+            "session_code": "g1ua1q1b",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "10",
+            "n_part_finished": "9",
+            "start_time": "10/30/17 15:29",
+            "duration": "29.1537037",
+            "total_cost": "$26.80 "
+        },
+        {
+            "session_code": "7otptmk2",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "14",
+            "n_part_finished": "9",
+            "start_time": "10/30/17 16:34",
+            "duration": "30.92037037",
+            "total_cost": "$34.50 "
+        },
+        {
+            "session_code": "624bh00r",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "5",
+            "n_part_finished": "3",
+            "start_time": "10/30/17 19:52",
+            "duration": "28.61666667",
+            "total_cost": "$11.34 "
+        },
+        {
+            "session_code": "zt085499",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "13",
+            "n_part_finished": "6",
+            "start_time": "10/31/17 13:50",
+            "duration": "30.77777778",
+            "total_cost": "$27.56 "
+        },
+        {
+            "session_code": "nieeagox",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "9",
+            "n_part_finished": "6",
+            "start_time": "11/1/17 14:59",
+            "duration": "31.71111111",
+            "total_cost": "$18.54 "
+        },
+        {
+            "session_code": "239cmkfa",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "4",
+            "n_part_finished": "4",
+            "start_time": "11/2/17 17:31",
+            "duration": "27.41666667",
+            "total_cost": "$11.08 "
+        },
+        {
+            "session_code": "x15ibc79",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "10",
+            "n_part_finished": "8",
+            "start_time": "11/6/17 16:14",
+            "duration": "24.29583333",
+            "total_cost": "$23.87 "
+        },
+        {
+            "session_code": "6i5z0oiv",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "9",
+            "n_part_finished": "6",
+            "start_time": "11/6/17 18:09",
+            "duration": "29.08611111",
+            "total_cost": "$17.34 "
+        },
+        {
+            "session_code": "xqx91tvj",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "14",
+            "n_part_finished": "9",
+            "start_time": "11/8/17 16:56",
+            "duration": "26.38703704",
+            "total_cost": "$30.29 "
+        },
+        {
+            "session_code": "nz9iv9en",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "8",
+            "n_part_finished": "5",
+            "start_time": "11/8/17 17:39",
+            "duration": "24.18666667",
+            "total_cost": "$18.21 "
+        },
+        {
+            "session_code": "0mv7j8p9",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "6",
+            "n_part_finished": "4",
+            "start_time": "11/9/17 14:45",
+            "duration": "28.99583333",
+            "total_cost": "$10.71 "
+        },
+        {
+            "session_code": "6lk8ipmc",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "4",
+            "n_part_finished": "2",
+            "start_time": "11/9/17 15:37",
+            "duration": "32.03333333",
+            "total_cost": "$7.44 "
+        },
+        {
+            "session_code": "ybcwk6k2",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "12",
+            "n_part_finished": "5",
+            "start_time": "11/10/17 16:39",
+            "duration": "27.57666667",
+            "total_cost": "$20.50 "
+        },
+        {
+            "session_code": "s4b2hm2f",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "13",
+            "n_part_finished": "7",
+            "start_time": "11/13/17 13:59",
+            "duration": "29.39047619",
+            "total_cost": "$28.23 "
+        },
+        {
+            "session_code": "j8q7437i",
+            "experiment_type": "Public Goods Game - IRB.v2",
+            "n_part_requested": "15",
+            "n_part_consented": "7",
+            "n_part_finished": "5",
+            "start_time": "11/13/17 17:26",
+            "duration": "25.02666667",
+            "total_cost": "$15.84 "
+        }
+    ]
+}

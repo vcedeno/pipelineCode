@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Players",
+    "description": "Player phases parameters",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+        "phaseid": {
+            "description": "The unique identifier for a phase",
+            "type": "string"
+        },
+        "playerid": {
+            "description": "Player id",
+            "type": "string"
+        },
+        "neighbors" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"neighbor": {
+            		"description": "Neighbor of a player",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	 "beginparameters" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"parameter": {
+            		"description": "Beginning parameter in phase",
+            		"type": "string"
+        			},
+        			"value": {
+            		"description": "Beginning parameter value",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	"endparameters" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"parameter": {
+            		"description": "End parameter in phase",
+            		"type": "string"
+        			},
+        			"value": {
+            		"description": "End parameter value",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 }
+    },
+    "required": ["playerid","phaseid"]
+    }
+}
+

@@ -1,0 +1,81 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "CDF for Action",
+    "description": "CDF for action in experiment",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    "actions" : {
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    	"action": {
+        "description": "The action id",
+        "type": "string"
+        },
+        "phases" : {
+    	"type": "array",
+    	"items" : {
+    	"type": "object",
+    	"properties": {
+    		"phaseid": {
+            	"description": "The unique identifier for a phaseid",
+            	"type": "string"
+        	},
+        	"n": {
+           	 "description": "Number of players in phase",
+           	 "type": "integer"
+        	},
+        	"d": {
+            	"description": "Number of connections between players",
+            	"type": "integer"
+        	},
+        	"duration": {
+         	   "description": "Duration in seconds of game",
+         	   "type": "integer"
+        	},
+        	"windowsize": {
+         	   "description": "Size of window for analysis",
+         	   "type": "integer"
+        	},
+        	"players" : {
+          	"type" : "array",
+           	"items" : {
+               "type" : "object",
+               "properties" : {
+        			"playerid": {
+            		"description": "The unique identifier for a player",
+            		"type": "string"
+        			},
+        			"actions" : {
+          			"type" : "array",
+           			"items" : {
+               		"type" : "object",
+               			"properties" : {
+               				"second": {
+            				"description": "second",
+            				"type": "string"
+        					},
+        					"value": {
+            				"description": "cumulative number of actions at the second",
+            				"type": "string"
+        					}
+       					   }
+       					}
+     				}
+       			}
+       		  }
+     		}  
+    	}
+      }
+    }
+   },
+    	"required": ["action"]
+   }
+   }
+   }
+   }
+}
+

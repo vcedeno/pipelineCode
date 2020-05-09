@@ -1,0 +1,699 @@
+[
+  {
+    "actions": [
+      {
+        "actionrequest": "requestsent-replysent",
+        "phases": [
+          {
+            "phaseid": "gbwspag31",
+            "begin": 1501084376.0,
+            "n": 10,
+            "d": 2,
+            "duration": 308,
+            "players": [
+              {
+                "playerid": "g8tonyl5",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084509.92379",
+                    "timestampreceive": "1501084520.66855"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084512.11315",
+                    "timestampreceive": "1501084526.06711"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084568.63922",
+                    "timestampreceive": "1501084572.17253"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084392.88396",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084396.14056",
+                    "timestampreceive": "1501084436.02768"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084399.9188",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "wrx1fizh",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084396.14056",
+                    "timestampreceive": "1501084438.84546"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084398.20992",
+                    "timestampreceive": "1501084438.24698"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084420.17419",
+                    "timestampreceive": "1501084438.84546"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084479.20554",
+                    "timestampreceive": "1501084480.81644"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084459.94044",
+                    "timestampreceive": "1501084470.85936"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084463.46062",
+                    "timestampreceive": "1501084471.28601"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084509.92379",
+                    "timestampreceive": "1501084520.66855"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084512.11315",
+                    "timestampreceive": "1501084526.06711"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084568.63922",
+                    "timestampreceive": "1501084572.17253"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084570.98792",
+                    "timestampreceive": "1501084572.76583"
+                  }
+                ]
+              },
+              {
+                "playerid": "pxvjdff7",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084459.94044",
+                    "timestampreceive": "1501084470.26351"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084463.46062",
+                    "timestampreceive": "1501084471.28601"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084570.98792",
+                    "timestampreceive": "1501084572.76583"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084442.64345",
+                    "timestampreceive": "1501084470.26351"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084636.58287",
+                    "timestampreceive": "1501084641.99961"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084653.98369",
+                    "timestampreceive": "1501084658.3119"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084398.20992",
+                    "timestampreceive": "1501084438.24698"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084420.17419",
+                    "timestampreceive": "1501084438.84546"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084425.90156",
+                    "timestampreceive": "1501084490.11132"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084475.32214",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084477.62819",
+                    "timestampreceive": "1501084620.55715"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084479.20554",
+                    "timestampreceive": "1501084480.81644"
+                  }
+                ]
+              },
+              {
+                "playerid": "9kbfxoqe",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084425.90156",
+                    "timestampreceive": "1501084490.11132"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084475.32214",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084477.62819",
+                    "timestampreceive": "1501084620.55715"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084548.52062",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084638.9405",
+                    "timestampreceive": "1501084662.59979"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084656.73253",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084442.64345",
+                    "timestampreceive": "1501084470.26351"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084636.58287",
+                    "timestampreceive": "1501084641.99961"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084653.98369",
+                    "timestampreceive": "1501084658.3119"
+                  }
+                ]
+              },
+              {
+                "playerid": "trb9jlu8",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084387.32614",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084464.65395",
+                    "timestampreceive": "1501084468.00319"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084548.52062",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084561.99625",
+                    "timestampreceive": "1501084578.32553"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084638.9405",
+                    "timestampreceive": "1501084662.59979"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084653.8471",
+                    "timestampreceive": "1501084657.92677"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084656.73253",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "kniyfuea",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084464.65395",
+                    "timestampreceive": "1501084468.00319"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084561.99625",
+                    "timestampreceive": "1501084578.32553"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1501084653.8471",
+                    "timestampreceive": "1501084657.92677"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084387.32614",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084442.09212",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "6p6butrq",
+                "actions": [
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084420.26967",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084423.176",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084485.29138",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084523.223",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084525.38419",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084528.8876",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "j19y2rbh",
+                "actions": [
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084404.77354",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084425.93207",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084444.9175",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084449.54887",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084515.07394",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1501084516.73324",
+                    "timestampreceive": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "phaseid": "jrseoprn1",
+            "begin": 1502200606.0,
+            "n": 10,
+            "d": 2,
+            "duration": 327,
+            "players": [
+              {
+                "playerid": "6myrlpvi",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200640.93397",
+                    "timestampreceive": "1502200674.3478"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200703.79406",
+                    "timestampreceive": "1502200731.24752"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200832.91982",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200641.40925",
+                    "timestampreceive": "1502200675.07698"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200708.12159",
+                    "timestampreceive": "1502200731.7153"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200725.91323",
+                    "timestampreceive": "1502200732.1632"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200655.55345",
+                    "timestampreceive": "1502200671.53532"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200699.41281",
+                    "timestampreceive": "1502200701.60375"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200762.81305",
+                    "timestampreceive": "1502200765.16791"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200765.04271",
+                    "timestampreceive": "1502200768.2679"
+                  }
+                ]
+              },
+              {
+                "playerid": "k0q2x5lr",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200655.55345",
+                    "timestampreceive": "1502200671.53532"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200765.04271",
+                    "timestampreceive": "1502200768.2679"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200641.52298",
+                    "timestampreceive": "1502200647.51167"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200740.56576",
+                    "timestampreceive": "1502200743.13108"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200640.93397",
+                    "timestampreceive": "1502200674.3478"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200703.79406",
+                    "timestampreceive": "1502200731.24752"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200832.91982",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "qdr7cfdx",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200668.00862",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200670.27227",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200671.9731",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200619.11363",
+                    "timestampreceive": "1502200623.90603"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200641.52298",
+                    "timestampreceive": "1502200647.51167"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200661.40432",
+                    "timestampreceive": "1502200663.61327"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200684.6711",
+                    "timestampreceive": "1502200686.95234"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200740.56576",
+                    "timestampreceive": "1502200743.13108"
+                  }
+                ]
+              },
+              {
+                "playerid": "0yrslh0h",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200619.11363",
+                    "timestampreceive": "1502200623.90603"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200661.40432",
+                    "timestampreceive": "1502200663.61327"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200684.6711",
+                    "timestampreceive": "1502200686.95234"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200642.9222",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200656.48322",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200668.00862",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200670.27227",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200671.9731",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200711.02185",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "o280qibn",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200642.9222",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200656.48322",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200711.02185",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200657.64231",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200678.09643",
+                    "timestampreceive": ""
+                  }
+                ]
+              },
+              {
+                "playerid": "y63y0udw",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200624.26967",
+                    "timestampreceive": "1502200631.96519"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200671.90957",
+                    "timestampreceive": "1502200673.42072"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200692.90924",
+                    "timestampreceive": "1502200698.96956"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200624.05496",
+                    "timestampreceive": "1502200630.73181"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200642.51397",
+                    "timestampreceive": "1502200643.91171"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200657.64231",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200678.09643",
+                    "timestampreceive": ""
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200734.91504",
+                    "timestampreceive": "1502200761.27213"
+                  }
+                ]
+              },
+              {
+                "playerid": "h0wi0jq1",
+                "actions": [
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200699.41281",
+                    "timestampreceive": "1502200701.60375"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200762.81305",
+                    "timestampreceive": "1502200765.16791"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200624.05496",
+                    "timestampreceive": "1502200630.73181"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200642.51397",
+                    "timestampreceive": "1502200643.91171"
+                  },
+                  {
+                    "action_id": "requestsentreceived",
+                    "timestampsent": "1502200734.91504",
+                    "timestampreceive": "1502200761.27213"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200624.26967",
+                    "timestampreceive": "1502200631.96519"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200641.40925",
+                    "timestampreceive": "1502200675.07698"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200671.90957",
+                    "timestampreceive": "1502200673.42072"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200692.90924",
+                    "timestampreceive": "1502200698.96956"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200708.12159",
+                    "timestampreceive": "1502200731.7153"
+                  },
+                  {
+                    "action_id": "requestsent",
+                    "timestampsent": "1502200725.91323",
+                    "timestampreceive": "1502200732.1632"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

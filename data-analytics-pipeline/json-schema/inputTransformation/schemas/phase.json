@@ -1,0 +1,45 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Phases",
+    "description": "Phases in an experiment",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+        "phaseid": {
+            "description": "The unique identifier for a phase",
+            "type": "string"
+        },
+        "phasedescriptionid": {
+            "description": "The phase description id",
+            "type": "string"
+        },
+        "experimentid": {
+            "description": "Phase experiment id",
+            "type": "integer"
+        },
+        "phaseorder": {
+            "description": "Order of phase in experiment",
+            "type": "integer"
+        },
+        "begin": {
+            "description": "Start time of a phase in experiment",
+            "type": "number"
+        },
+        "duration": {
+            "description": "Duration of a phase in seconds",
+            "type": "integer"
+        },
+        "d": {
+            "description": "Connections between players",
+            "type": "integer"
+        },
+        "n": {
+            "description": "Number of players",
+            "type": "integer"
+        }
+    },
+    "required": ["phaseid","phasedescriptionid","experimentid","phaseorder","begin","duration"]
+    }
+}
+

@@ -1,0 +1,17 @@
+{
+        "experiment": "/data-analytics-pipeline/json-schema/inputTransformation/datasets/experiment.json",
+        "phasedesc": "/data-analytics-pipeline/json-schema/inputTransformation/datasets/phasedesc.json",
+        "phase": "/data-analytics-pipeline/json-schema/inputTransformation/datasets/phase.json",
+        "action": "/data-analytics-pipeline/json-schema/inputTransformation/datasets/action.json",
+        "player": "/data-analytics-pipeline/json-schema/inputTransformation/datasets/player.json",
+        "functions": 
+        [
+      		{
+       			"function": "h7",
+       			"featureId": "all",
+        		"windowSize": 1,
+        		"nd":"n10d2,n15d2,n15d3,n15d4,n15d5,n15d6,n15d8,n20d2",
+        		"numseconds":300
+      		}
+    	]
+}

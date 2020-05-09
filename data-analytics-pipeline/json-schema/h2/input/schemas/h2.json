@@ -1,0 +1,82 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "RequestReply",
+    "description": "Player interactions of request reply delta timestamp",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    "actions" : {
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    	"actionrequest": {
+        "description": "The action id",
+        "type": "string"
+        },
+        "phases" : {
+    	"type": "array",
+    	"items" : {
+    	"type": "object",
+    	"properties": {
+    		"phaseid": {
+            	"description": "The unique identifier for a phaseid",
+            	"type": "string"
+        	},
+        	"n": {
+           	 "description": "Number of players in phase",
+           	 "type": "integer"
+        	},
+        	"d": {
+            	"description": "Number of connections between players",
+            	"type": "integer"
+        	},
+        	"duration": {
+         	   "description": "Duration in seconds of game",
+         	   "type": "integer"
+        	},
+        	"players" : {
+          	"type" : "array",
+           	"items" : {
+               "type" : "object",
+               "properties" : {
+        			"playerid": {
+            		"description": "The unique identifier for a player",
+            		"type": "string"
+        			},
+        			"actions" : {
+          			"type" : "array",
+           			"items" : {
+               		"type" : "object",
+               			"properties" : {
+               				"action_id": {
+            				"description": "action id received, action id sent",
+            				"type": "string"
+        					},
+        					"timestampsent": {
+            				"description": "Timestamp sent",
+            				"type": "string"
+        					}
+        					,
+        					"timestampreceive": {
+            				"description": "Timestamp receive",
+            				"type": "string"
+        					}
+       					   }
+       					}
+     				}
+       			}
+       		  }
+     		}  
+    	}
+      }
+    }
+   },
+    	"required": ["actionrequest"]
+   }
+   }
+   }
+   }
+}
+

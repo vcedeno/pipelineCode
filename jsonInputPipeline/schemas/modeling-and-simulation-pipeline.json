@@ -1,0 +1,86 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "ngs2-data-analytics-1-1#",
+    "type": "object",
+    "definitions": {
+        "VolumeServiceFileReference": {
+            "id": "VolumeServiceFileReference#",
+            "description": "Reference to a VolumeService File",
+            "definitions": {
+                "VolumeServiceFileURL": {
+                    "description": "URL pointing at Volume Service File",
+                    "type": "string",
+                    "format": "uri"
+                },
+                "VolumeServiceFileID": {
+                    "description": "UUID of a vs file.  When an ID is used instead of a URL, services will assume their default configured VS as the container for this item",
+                    "type": "string",
+                    "format": "uuid"
+                }
+            },
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "string"
+                }
+            ]
+        }
+    },
+    "properties": {
+        "functions": {
+            "type": "array",
+            "description": "Functions to be run for this pipeline",
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "function": {
+                        "description": "Pipeline functions to execute",
+                        "type": "string",
+                        "enum": [
+                            "h1",
+                            "h2"
+                        ]
+                    },
+                    "model0": {
+            		"type": "string",
+            		"description": "static markov"
+        			},
+        			"model0graph": {
+            		"type": "string",
+            		"description": "static markov graph"
+        			},
+        			"m0runs": {
+            		"type": "integer",
+            		"description": "runs time"
+        			},
+        			"m0discretetime": {
+            		"type": "integer",
+            		"description": "discrete time"
+        			},
+                    "model1": {
+                        "type": "string",
+                        "description": "dynamic markov"
+                    },
+        			"model1graph": {
+            		"type": "string",
+            		"description": "dynamic markov graph"
+            		},
+            		"m1runs": {
+            		"type": "integer",
+            		"description": "runs time"
+        			},
+            		"m1discretetime": {
+            		"type": "integer",
+            		"description": "discrete time"
+        			}
+                },
+                "required": [
+                    "function"
+                ]
+            }
+        }
+    }
+}

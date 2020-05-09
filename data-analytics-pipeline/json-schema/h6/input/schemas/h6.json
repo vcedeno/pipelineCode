@@ -1,0 +1,73 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "CDF for Action",
+    "description": "CDF for action in experiment",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    "actions" : {
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    	"action": {
+        "description": "The action id",
+        "type": "string"
+        },
+        "bin": {
+        "description": "The size of the histogram bin",
+        "type": "integer"
+        },
+        "phases" : {
+    	"type": "array",
+    	"items" : {
+    	"type": "object",
+    	"properties": {
+    		"phaseid": {
+            	"description": "The unique identifier for a phaseid",
+            	"type": "string"
+        	},
+        	"begin": {
+           	 "description": "timestamp of the game beginning",
+           	 "type": "string"
+        	},
+        	"n": {
+           	 "description": "Number of players in phase",
+           	 "type": "integer"
+        	},
+        	"d": {
+            	"description": "Number of connections between players",
+            	"type": "integer"
+        	},
+        	"duration": {
+         	   "description": "Duration in seconds of game",
+         	   "type": "integer"
+        	},
+        	"numplayers": {
+         	   "description": "Number of players in phase",
+         	   "type": "integer"
+        	},
+        	"timestamp" : {
+          			"type" : "array",
+           			"items" : {
+               		"type" : "object",
+               			"properties" : {
+        					"value": {
+            				"description": "time in seconds",
+            				"type": "string"
+        					}
+       			}
+       		  }
+     		}  
+    	}
+      }
+    }
+   },
+    	"required": ["action"]
+   }
+   }
+   }
+   }
+}
+

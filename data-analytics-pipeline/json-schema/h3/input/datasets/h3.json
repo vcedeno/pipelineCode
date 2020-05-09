@@ -1,0 +1,1094 @@
+[
+  {
+    "actions": [
+      {
+        "action": "word",
+        "phases": [
+          {
+            "phaseid": "gbwspag31",
+            "begin": 1501084376.0,
+            "n": 10,
+            "d": 2,
+            "duration": 308,
+            "windowsize": 20,
+            "players": [
+              {
+                "playerid": "g8tonyl5",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "0"
+                  },
+                  {
+                    "second": "160",
+                    "value": "0"
+                  },
+                  {
+                    "second": "180",
+                    "value": "0"
+                  },
+                  {
+                    "second": "200",
+                    "value": "0"
+                  },
+                  {
+                    "second": "220",
+                    "value": "0"
+                  },
+                  {
+                    "second": "240",
+                    "value": "0"
+                  },
+                  {
+                    "second": "260",
+                    "value": "0"
+                  },
+                  {
+                    "second": "280",
+                    "value": "0"
+                  },
+                  {
+                    "second": "300",
+                    "value": "0"
+                  },
+                  {
+                    "second": "320",
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "playerid": "wrx1fizh",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "1"
+                  },
+                  {
+                    "second": "120",
+                    "value": "2"
+                  },
+                  {
+                    "second": "140",
+                    "value": "2"
+                  },
+                  {
+                    "second": "160",
+                    "value": "4"
+                  },
+                  {
+                    "second": "180",
+                    "value": "5"
+                  },
+                  {
+                    "second": "200",
+                    "value": "6"
+                  },
+                  {
+                    "second": "220",
+                    "value": "7"
+                  },
+                  {
+                    "second": "240",
+                    "value": "8"
+                  },
+                  {
+                    "second": "260",
+                    "value": "9"
+                  },
+                  {
+                    "second": "280",
+                    "value": "11"
+                  },
+                  {
+                    "second": "300",
+                    "value": "12"
+                  },
+                  {
+                    "second": "320",
+                    "value": "13"
+                  }
+                ]
+              },
+              {
+                "playerid": "pxvjdff7",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "3"
+                  },
+                  {
+                    "second": "100",
+                    "value": "5"
+                  },
+                  {
+                    "second": "120",
+                    "value": "5"
+                  },
+                  {
+                    "second": "140",
+                    "value": "5"
+                  },
+                  {
+                    "second": "160",
+                    "value": "6"
+                  },
+                  {
+                    "second": "180",
+                    "value": "8"
+                  },
+                  {
+                    "second": "200",
+                    "value": "9"
+                  },
+                  {
+                    "second": "220",
+                    "value": "9"
+                  },
+                  {
+                    "second": "240",
+                    "value": "10"
+                  },
+                  {
+                    "second": "260",
+                    "value": "12"
+                  },
+                  {
+                    "second": "280",
+                    "value": "15"
+                  },
+                  {
+                    "second": "300",
+                    "value": "16"
+                  },
+                  {
+                    "second": "320",
+                    "value": "16"
+                  }
+                ]
+              },
+              {
+                "playerid": "9kbfxoqe",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "1"
+                  },
+                  {
+                    "second": "140",
+                    "value": "1"
+                  },
+                  {
+                    "second": "160",
+                    "value": "1"
+                  },
+                  {
+                    "second": "180",
+                    "value": "2"
+                  },
+                  {
+                    "second": "200",
+                    "value": "3"
+                  },
+                  {
+                    "second": "220",
+                    "value": "3"
+                  },
+                  {
+                    "second": "240",
+                    "value": "3"
+                  },
+                  {
+                    "second": "260",
+                    "value": "3"
+                  },
+                  {
+                    "second": "280",
+                    "value": "4"
+                  },
+                  {
+                    "second": "300",
+                    "value": "6"
+                  },
+                  {
+                    "second": "320",
+                    "value": "6"
+                  }
+                ]
+              },
+              {
+                "playerid": "trb9jlu8",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "1"
+                  },
+                  {
+                    "second": "100",
+                    "value": "1"
+                  },
+                  {
+                    "second": "120",
+                    "value": "2"
+                  },
+                  {
+                    "second": "140",
+                    "value": "3"
+                  },
+                  {
+                    "second": "160",
+                    "value": "4"
+                  },
+                  {
+                    "second": "180",
+                    "value": "4"
+                  },
+                  {
+                    "second": "200",
+                    "value": "4"
+                  },
+                  {
+                    "second": "220",
+                    "value": "5"
+                  },
+                  {
+                    "second": "240",
+                    "value": "7"
+                  },
+                  {
+                    "second": "260",
+                    "value": "7"
+                  },
+                  {
+                    "second": "280",
+                    "value": "7"
+                  },
+                  {
+                    "second": "300",
+                    "value": "9"
+                  },
+                  {
+                    "second": "320",
+                    "value": "9"
+                  }
+                ]
+              },
+              {
+                "playerid": "kniyfuea",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "0"
+                  },
+                  {
+                    "second": "160",
+                    "value": "0"
+                  },
+                  {
+                    "second": "180",
+                    "value": "0"
+                  },
+                  {
+                    "second": "200",
+                    "value": "0"
+                  },
+                  {
+                    "second": "220",
+                    "value": "0"
+                  },
+                  {
+                    "second": "240",
+                    "value": "0"
+                  },
+                  {
+                    "second": "260",
+                    "value": "0"
+                  },
+                  {
+                    "second": "280",
+                    "value": "0"
+                  },
+                  {
+                    "second": "300",
+                    "value": "0"
+                  },
+                  {
+                    "second": "320",
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "playerid": "6p6butrq",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "1"
+                  },
+                  {
+                    "second": "120",
+                    "value": "1"
+                  },
+                  {
+                    "second": "140",
+                    "value": "1"
+                  },
+                  {
+                    "second": "160",
+                    "value": "1"
+                  },
+                  {
+                    "second": "180",
+                    "value": "1"
+                  },
+                  {
+                    "second": "200",
+                    "value": "1"
+                  },
+                  {
+                    "second": "220",
+                    "value": "1"
+                  },
+                  {
+                    "second": "240",
+                    "value": "1"
+                  },
+                  {
+                    "second": "260",
+                    "value": "1"
+                  },
+                  {
+                    "second": "280",
+                    "value": "1"
+                  },
+                  {
+                    "second": "300",
+                    "value": "1"
+                  },
+                  {
+                    "second": "320",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "playerid": "j19y2rbh",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "0"
+                  },
+                  {
+                    "second": "160",
+                    "value": "0"
+                  },
+                  {
+                    "second": "180",
+                    "value": "0"
+                  },
+                  {
+                    "second": "200",
+                    "value": "0"
+                  },
+                  {
+                    "second": "220",
+                    "value": "0"
+                  },
+                  {
+                    "second": "240",
+                    "value": "0"
+                  },
+                  {
+                    "second": "260",
+                    "value": "0"
+                  },
+                  {
+                    "second": "280",
+                    "value": "0"
+                  },
+                  {
+                    "second": "300",
+                    "value": "0"
+                  },
+                  {
+                    "second": "320",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "phaseid": "jrseoprn1",
+            "begin": 1502200606.0,
+            "n": 10,
+            "d": 2,
+            "duration": 327,
+            "windowsize": 20,
+            "players": [
+              {
+                "playerid": "6myrlpvi",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "1"
+                  },
+                  {
+                    "second": "140",
+                    "value": "1"
+                  },
+                  {
+                    "second": "160",
+                    "value": "1"
+                  },
+                  {
+                    "second": "180",
+                    "value": "1"
+                  },
+                  {
+                    "second": "200",
+                    "value": "2"
+                  },
+                  {
+                    "second": "220",
+                    "value": "2"
+                  },
+                  {
+                    "second": "240",
+                    "value": "2"
+                  },
+                  {
+                    "second": "260",
+                    "value": "3"
+                  },
+                  {
+                    "second": "280",
+                    "value": "3"
+                  },
+                  {
+                    "second": "300",
+                    "value": "3"
+                  },
+                  {
+                    "second": "320",
+                    "value": "3"
+                  },
+                  {
+                    "second": "340",
+                    "value": "3"
+                  }
+                ]
+              },
+              {
+                "playerid": "k0q2x5lr",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "1"
+                  },
+                  {
+                    "second": "100",
+                    "value": "1"
+                  },
+                  {
+                    "second": "120",
+                    "value": "1"
+                  },
+                  {
+                    "second": "140",
+                    "value": "2"
+                  },
+                  {
+                    "second": "160",
+                    "value": "2"
+                  },
+                  {
+                    "second": "180",
+                    "value": "3"
+                  },
+                  {
+                    "second": "200",
+                    "value": "5"
+                  },
+                  {
+                    "second": "220",
+                    "value": "5"
+                  },
+                  {
+                    "second": "240",
+                    "value": "5"
+                  },
+                  {
+                    "second": "260",
+                    "value": "5"
+                  },
+                  {
+                    "second": "280",
+                    "value": "5"
+                  },
+                  {
+                    "second": "300",
+                    "value": "6"
+                  },
+                  {
+                    "second": "320",
+                    "value": "7"
+                  },
+                  {
+                    "second": "340",
+                    "value": "7"
+                  }
+                ]
+              },
+              {
+                "playerid": "qdr7cfdx",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "1"
+                  },
+                  {
+                    "second": "40",
+                    "value": "1"
+                  },
+                  {
+                    "second": "60",
+                    "value": "4"
+                  },
+                  {
+                    "second": "80",
+                    "value": "5"
+                  },
+                  {
+                    "second": "100",
+                    "value": "7"
+                  },
+                  {
+                    "second": "120",
+                    "value": "9"
+                  },
+                  {
+                    "second": "140",
+                    "value": "11"
+                  },
+                  {
+                    "second": "160",
+                    "value": "12"
+                  },
+                  {
+                    "second": "180",
+                    "value": "13"
+                  },
+                  {
+                    "second": "200",
+                    "value": "14"
+                  },
+                  {
+                    "second": "220",
+                    "value": "15"
+                  },
+                  {
+                    "second": "240",
+                    "value": "15"
+                  },
+                  {
+                    "second": "260",
+                    "value": "16"
+                  },
+                  {
+                    "second": "280",
+                    "value": "16"
+                  },
+                  {
+                    "second": "300",
+                    "value": "17"
+                  },
+                  {
+                    "second": "320",
+                    "value": "17"
+                  },
+                  {
+                    "second": "340",
+                    "value": "17"
+                  }
+                ]
+              },
+              {
+                "playerid": "0yrslh0h",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "0"
+                  },
+                  {
+                    "second": "160",
+                    "value": "0"
+                  },
+                  {
+                    "second": "180",
+                    "value": "0"
+                  },
+                  {
+                    "second": "200",
+                    "value": "0"
+                  },
+                  {
+                    "second": "220",
+                    "value": "0"
+                  },
+                  {
+                    "second": "240",
+                    "value": "0"
+                  },
+                  {
+                    "second": "260",
+                    "value": "0"
+                  },
+                  {
+                    "second": "280",
+                    "value": "0"
+                  },
+                  {
+                    "second": "300",
+                    "value": "0"
+                  },
+                  {
+                    "second": "320",
+                    "value": "0"
+                  },
+                  {
+                    "second": "340",
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "playerid": "o280qibn",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "0"
+                  },
+                  {
+                    "second": "160",
+                    "value": "0"
+                  },
+                  {
+                    "second": "180",
+                    "value": "0"
+                  },
+                  {
+                    "second": "200",
+                    "value": "0"
+                  },
+                  {
+                    "second": "220",
+                    "value": "0"
+                  },
+                  {
+                    "second": "240",
+                    "value": "0"
+                  },
+                  {
+                    "second": "260",
+                    "value": "0"
+                  },
+                  {
+                    "second": "280",
+                    "value": "0"
+                  },
+                  {
+                    "second": "300",
+                    "value": "0"
+                  },
+                  {
+                    "second": "320",
+                    "value": "0"
+                  },
+                  {
+                    "second": "340",
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "playerid": "y63y0udw",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "1"
+                  },
+                  {
+                    "second": "60",
+                    "value": "1"
+                  },
+                  {
+                    "second": "80",
+                    "value": "1"
+                  },
+                  {
+                    "second": "100",
+                    "value": "2"
+                  },
+                  {
+                    "second": "120",
+                    "value": "2"
+                  },
+                  {
+                    "second": "140",
+                    "value": "2"
+                  },
+                  {
+                    "second": "160",
+                    "value": "2"
+                  },
+                  {
+                    "second": "180",
+                    "value": "5"
+                  },
+                  {
+                    "second": "200",
+                    "value": "6"
+                  },
+                  {
+                    "second": "220",
+                    "value": "6"
+                  },
+                  {
+                    "second": "240",
+                    "value": "6"
+                  },
+                  {
+                    "second": "260",
+                    "value": "6"
+                  },
+                  {
+                    "second": "280",
+                    "value": "6"
+                  },
+                  {
+                    "second": "300",
+                    "value": "6"
+                  },
+                  {
+                    "second": "320",
+                    "value": "6"
+                  },
+                  {
+                    "second": "340",
+                    "value": "6"
+                  }
+                ]
+              },
+              {
+                "playerid": "h0wi0jq1",
+                "actions": [
+                  {
+                    "second": "20",
+                    "value": "0"
+                  },
+                  {
+                    "second": "40",
+                    "value": "0"
+                  },
+                  {
+                    "second": "60",
+                    "value": "0"
+                  },
+                  {
+                    "second": "80",
+                    "value": "0"
+                  },
+                  {
+                    "second": "100",
+                    "value": "0"
+                  },
+                  {
+                    "second": "120",
+                    "value": "0"
+                  },
+                  {
+                    "second": "140",
+                    "value": "1"
+                  },
+                  {
+                    "second": "160",
+                    "value": "2"
+                  },
+                  {
+                    "second": "180",
+                    "value": "3"
+                  },
+                  {
+                    "second": "200",
+                    "value": "5"
+                  },
+                  {
+                    "second": "220",
+                    "value": "6"
+                  },
+                  {
+                    "second": "240",
+                    "value": "8"
+                  },
+                  {
+                    "second": "260",
+                    "value": "11"
+                  },
+                  {
+                    "second": "280",
+                    "value": "11"
+                  },
+                  {
+                    "second": "300",
+                    "value": "11"
+                  },
+                  {
+                    "second": "320",
+                    "value": "12"
+                  },
+                  {
+                    "second": "340",
+                    "value": "12"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1526 @@
+[
+  {
+    "experimentid": 1,
+    "p": 2,
+    "n": 10,
+    "starttime": "7/21/17 19:43",
+    "duration": 22.1,
+    "activeplayers": [
+      {
+        "player": "rqyhp29i"
+      },
+      {
+        "player": "f0hsq81m"
+      },
+      {
+        "player": "skya5ojd"
+      },
+      {
+        "player": "p4f3glnm"
+      },
+      {
+        "player": "ku7sgxda"
+      },
+      {
+        "player": "9d6txfsy"
+      },
+      {
+        "player": "bk4ieibh"
+      },
+      {
+        "player": "fxgey8o1"
+      }
+    ]
+  },
+  {
+    "experimentid": 2,
+    "p": 2,
+    "n": 10,
+    "starttime": "7/26/17 15:41",
+    "duration": 107.0166667,
+    "activeplayers": [
+      {
+        "player": "g8tonyl5"
+      },
+      {
+        "player": "wrx1fizh"
+      },
+      {
+        "player": "pxvjdff7"
+      },
+      {
+        "player": "9kbfxoqe"
+      },
+      {
+        "player": "trb9jlu8"
+      },
+      {
+        "player": "kniyfuea"
+      },
+      {
+        "player": "6p6butrq"
+      },
+      {
+        "player": "j19y2rbh"
+      }
+    ]
+  },
+  {
+    "experimentid": 3,
+    "p": 2,
+    "n": 10,
+    "starttime": "7/27/17 20:32",
+    "duration": 23.45555556,
+    "activeplayers": [
+      {
+        "player": "b3bzjv7x"
+      },
+      {
+        "player": "z5lhq79j"
+      },
+      {
+        "player": "dw7sds69"
+      },
+      {
+        "player": "4ft3yddt"
+      },
+      {
+        "player": "0g1vpmuv"
+      },
+      {
+        "player": "v7hqx6y9"
+      },
+      {
+        "player": "peh9x2qq"
+      },
+      {
+        "player": "bica5cnd"
+      },
+      {
+        "player": "h9em0uts"
+      }
+    ]
+  },
+  {
+    "experimentid": 4,
+    "p": 2,
+    "n": 10,
+    "starttime": "7/28/17 14:11",
+    "duration": 22.01333333,
+    "activeplayers": [
+      {
+        "player": "fz8v2kfa"
+      },
+      {
+        "player": "hhi5zsnv"
+      },
+      {
+        "player": "74dfcjcf"
+      },
+      {
+        "player": "ji49zxof"
+      },
+      {
+        "player": "gcssnn1p"
+      },
+      {
+        "player": "vlt8kkgw"
+      },
+      {
+        "player": "7uore93c"
+      }
+    ]
+  },
+  {
+    "experimentid": 5,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/8/17 13:48",
+    "duration": 21.75666667,
+    "activeplayers": [
+      {
+        "player": "6myrlpvi"
+      },
+      {
+        "player": "k0q2x5lr"
+      },
+      {
+        "player": "qdr7cfdx"
+      },
+      {
+        "player": "0yrslh0h"
+      },
+      {
+        "player": "o280qibn"
+      },
+      {
+        "player": "y63y0udw"
+      },
+      {
+        "player": "h0wi0jq1"
+      }
+    ]
+  },
+  {
+    "experimentid": 6,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/8/17 17:48",
+    "duration": 22.80333333,
+    "activeplayers": [
+      {
+        "player": "r57fong8"
+      },
+      {
+        "player": "1wzdpuan"
+      },
+      {
+        "player": "j1okbscz"
+      },
+      {
+        "player": "6uuzuh53"
+      },
+      {
+        "player": "d1c070ko"
+      }
+    ]
+  },
+  {
+    "experimentid": 7,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/16/17 15:05",
+    "duration": 20.22333333,
+    "activeplayers": [
+      {
+        "player": "o7sx05sr"
+      },
+      {
+        "player": "478wsclo"
+      },
+      {
+        "player": "nqeic4di"
+      },
+      {
+        "player": "ddw8u5cc"
+      },
+      {
+        "player": "1xvi6k0h"
+      },
+      {
+        "player": "szqmstvp"
+      },
+      {
+        "player": "mvrnznoq"
+      }
+    ]
+  },
+  {
+    "experimentid": 8,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/16/17 16:57",
+    "duration": 21.91041667,
+    "activeplayers": [
+      {
+        "player": "uyxok6a7"
+      },
+      {
+        "player": "68bm75fg"
+      },
+      {
+        "player": "v9hremrx"
+      },
+      {
+        "player": "d1qbdjv6"
+      },
+      {
+        "player": "e8mvh82l"
+      },
+      {
+        "player": "cusmtef5"
+      },
+      {
+        "player": "em5lm86w"
+      },
+      {
+        "player": "x7msc3ac"
+      }
+    ]
+  },
+  {
+    "experimentid": 9,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/16/17 17:28",
+    "duration": 26.25,
+    "activeplayers": [
+      {
+        "player": "lajqs0cz"
+      },
+      {
+        "player": "c9ndvony"
+      },
+      {
+        "player": "jgmfffiw"
+      },
+      {
+        "player": "t8dovk6k"
+      },
+      {
+        "player": "9a2zaq6w"
+      },
+      {
+        "player": "ac4guma8"
+      },
+      {
+        "player": "835zdy44"
+      },
+      {
+        "player": "ypx9zwsg"
+      }
+    ]
+  },
+  {
+    "experimentid": 10,
+    "p": 2,
+    "n": 10,
+    "starttime": "8/16/17 18:40",
+    "duration": 26.14,
+    "activeplayers": [
+      {
+        "player": "uxj6gycr"
+      },
+      {
+        "player": "a8uff2q0"
+      },
+      {
+        "player": "dvig9sw0"
+      },
+      {
+        "player": "nhf74azg"
+      },
+      {
+        "player": "mx22ha3l"
+      },
+      {
+        "player": "jryh9yo6"
+      }
+    ]
+  },
+  {
+    "experimentid": 11,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/24/17 17:02",
+    "duration": 25.36666667,
+    "activeplayers": [
+      {
+        "player": "6ccyzsaq"
+      },
+      {
+        "player": "wvlxzkn5"
+      },
+      {
+        "player": "idpe1grd"
+      },
+      {
+        "player": "s1joev33"
+      }
+    ]
+  },
+  {
+    "experimentid": 12,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/24/17 18:00",
+    "duration": 24.90416667,
+    "activeplayers": [
+      {
+        "player": "iiwu0o96"
+      },
+      {
+        "player": "5yjvgxom"
+      },
+      {
+        "player": "4usb23gs"
+      },
+      {
+        "player": "jmm2id0t"
+      }
+    ]
+  },
+  {
+    "experimentid": 13,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/25/17 18:20",
+    "duration": 24.3875,
+    "activeplayers": [
+      {
+        "player": "85q06ilu"
+      },
+      {
+        "player": "cfr0i4oh"
+      },
+      {
+        "player": "yh9eyxn5"
+      },
+      {
+        "player": "mazso34n"
+      },
+      {
+        "player": "q4fctmre"
+      }
+    ]
+  },
+  {
+    "experimentid": 14,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/30/17 15:30",
+    "duration": 18.93333333,
+    "activeplayers": [
+      {
+        "player": "fuxinpgf"
+      },
+      {
+        "player": "zkm4ivn8"
+      },
+      {
+        "player": "f89ag8fa"
+      },
+      {
+        "player": "zabhwys8"
+      },
+      {
+        "player": "3tf36p8m"
+      }
+    ]
+  },
+  {
+    "experimentid": 15,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/31/17 14:14",
+    "duration": 20.45,
+    "activeplayers": [
+      {
+        "player": "pj9fw8kc"
+      },
+      {
+        "player": "e1iog1do"
+      },
+      {
+        "player": "y9sl2etg"
+      },
+      {
+        "player": "mh7g2ax2"
+      }
+    ]
+  },
+  {
+    "experimentid": 16,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/31/17 14:20",
+    "duration": 14.64166667,
+    "activeplayers": [
+      {
+        "player": "nrzvfi0x"
+      },
+      {
+        "player": "meb645wi"
+      },
+      {
+        "player": "vq72bqxa"
+      }
+    ]
+  },
+  {
+    "experimentid": 17,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/31/17 15:09",
+    "duration": 29.7,
+    "activeplayers": [
+      {
+        "player": "xngs1r4o"
+      },
+      {
+        "player": "xpkcu5rz"
+      },
+      {
+        "player": "icumrbwd"
+      },
+      {
+        "player": "zy9lcwp5"
+      }
+    ]
+  },
+  {
+    "experimentid": 18,
+    "p": 2,
+    "n": 5,
+    "starttime": "8/31/17 21:12",
+    "duration": 21.23333333,
+    "activeplayers": [
+      {
+        "player": "9kxcvnmo"
+      },
+      {
+        "player": "vhs76pfu"
+      },
+      {
+        "player": "ul8zfmtd"
+      }
+    ]
+  },
+  {
+    "experimentid": 19,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/7/17 16:45",
+    "duration": 35.25454545,
+    "activeplayers": [
+      {
+        "player": "buesmn07"
+      },
+      {
+        "player": "1y0vdy34"
+      },
+      {
+        "player": "srtf7i08"
+      },
+      {
+        "player": "4tditzk5"
+      },
+      {
+        "player": "515yfwm0"
+      },
+      {
+        "player": "xw79yj68"
+      },
+      {
+        "player": "2to1e7tl"
+      },
+      {
+        "player": "6p67bj6v"
+      },
+      {
+        "player": "76gyjjir"
+      },
+      {
+        "player": "g6ufcly3"
+      },
+      {
+        "player": "yjbw8ros"
+      },
+      {
+        "player": "41s7yj8y"
+      },
+      {
+        "player": "sz3xii8e"
+      },
+      {
+        "player": "950ykzm1"
+      },
+      {
+        "player": "4xkkedce"
+      }
+    ]
+  },
+  {
+    "experimentid": 20,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/8/17 14:17",
+    "duration": 30.9462963,
+    "activeplayers": [
+      {
+        "player": "atiocivk"
+      },
+      {
+        "player": "gk7az5nq"
+      },
+      {
+        "player": "39r63lpk"
+      },
+      {
+        "player": "q8fcmi7n"
+      },
+      {
+        "player": "wnu0tref"
+      },
+      {
+        "player": "7z2tty51"
+      },
+      {
+        "player": "8bz60rll"
+      },
+      {
+        "player": "1i29hd8x"
+      },
+      {
+        "player": "j6xzz8th"
+      },
+      {
+        "player": "4ecccqgs"
+      },
+      {
+        "player": "kj108ev8"
+      }
+    ]
+  },
+  {
+    "experimentid": 21,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/8/17 16:25",
+    "duration": 32.41333333,
+    "activeplayers": [
+      {
+        "player": "2xvkdujo"
+      },
+      {
+        "player": "glcor7i9"
+      },
+      {
+        "player": "2quzcwvk"
+      },
+      {
+        "player": "e0j77rpj"
+      },
+      {
+        "player": "mxqbec10"
+      },
+      {
+        "player": "2locqlke"
+      }
+    ]
+  },
+  {
+    "experimentid": 22,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/11/17 18:36",
+    "duration": 29.69871795,
+    "activeplayers": [
+      {
+        "player": "f2pk1drz"
+      },
+      {
+        "player": "sfjfmlxu"
+      },
+      {
+        "player": "3ps3sro8"
+      },
+      {
+        "player": "vqwdsxhn"
+      },
+      {
+        "player": "ffs56of7"
+      },
+      {
+        "player": "4oeu2lco"
+      },
+      {
+        "player": "dcwu1czn"
+      },
+      {
+        "player": "vnqtw5mm"
+      },
+      {
+        "player": "n5om2noe"
+      },
+      {
+        "player": "4kcj7wm4"
+      },
+      {
+        "player": "mlwkfjep"
+      },
+      {
+        "player": "cw92134n"
+      },
+      {
+        "player": "aigqwind"
+      },
+      {
+        "player": "a3gpd55b"
+      },
+      {
+        "player": "tu9a8a6i"
+      },
+      {
+        "player": "ye2sbk4w"
+      },
+      {
+        "player": "srcgv3iw"
+      }
+    ]
+  },
+  {
+    "experimentid": 23,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/12/17 17:17",
+    "duration": 25.94242424,
+    "activeplayers": [
+      {
+        "player": "za49ame5"
+      },
+      {
+        "player": "hes51pam"
+      },
+      {
+        "player": "eo6rh1s8"
+      },
+      {
+        "player": "kp96zjx9"
+      },
+      {
+        "player": "8fv3fsmo"
+      },
+      {
+        "player": "3zl7g9xy"
+      },
+      {
+        "player": "ypnhz43j"
+      },
+      {
+        "player": "0an00lum"
+      },
+      {
+        "player": "e3fl84ze"
+      },
+      {
+        "player": "00ze63a5"
+      },
+      {
+        "player": "1ib3kzd1"
+      },
+      {
+        "player": "avckt4xl"
+      },
+      {
+        "player": "i8jupdmb"
+      }
+    ]
+  },
+  {
+    "experimentid": 24,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/19/17 17:09",
+    "duration": 31.43472222,
+    "activeplayers": [
+      {
+        "player": "5kyqoy2v"
+      },
+      {
+        "player": "j9ctq8x7"
+      },
+      {
+        "player": "pf2h6zim"
+      },
+      {
+        "player": "pwhpjqx4"
+      },
+      {
+        "player": "5wm2jug0"
+      },
+      {
+        "player": "swa6eoga"
+      },
+      {
+        "player": "4t2r3qfp"
+      },
+      {
+        "player": "tt8gq2g7"
+      },
+      {
+        "player": "zc8myf1c"
+      },
+      {
+        "player": "5un7axyh"
+      },
+      {
+        "player": "l21uvush"
+      },
+      {
+        "player": "7zfbth6p"
+      },
+      {
+        "player": "b8cb3di9"
+      },
+      {
+        "player": "bgmxlkvt"
+      }
+    ]
+  },
+  {
+    "experimentid": 25,
+    "p": 2,
+    "n": 20,
+    "starttime": "9/26/17 20:04",
+    "duration": 29.84444444,
+    "activeplayers": [
+      {
+        "player": "bicjflen"
+      },
+      {
+        "player": "ym19q9bt"
+      },
+      {
+        "player": "bv5x4gvc"
+      },
+      {
+        "player": "56n3qg0a"
+      },
+      {
+        "player": "68sctqyb"
+      },
+      {
+        "player": "lobuwfe5"
+      },
+      {
+        "player": "9tjaia4s"
+      }
+    ]
+  },
+  {
+    "experimentid": 26,
+    "p": 2,
+    "n": 20,
+    "starttime": "10/2/17 17:16",
+    "duration": 30.83636364,
+    "activeplayers": [
+      {
+        "player": "hnh2jbw1"
+      },
+      {
+        "player": "avpzp49n"
+      },
+      {
+        "player": "z83zpeil"
+      },
+      {
+        "player": "6wky5y67"
+      },
+      {
+        "player": "2t197mwa"
+      },
+      {
+        "player": "h0c53hd6"
+      },
+      {
+        "player": "kii8vvp2"
+      },
+      {
+        "player": "axu3w0g5"
+      },
+      {
+        "player": "fjsf0n37"
+      },
+      {
+        "player": "udifmopk"
+      },
+      {
+        "player": "uh2gmjp7"
+      },
+      {
+        "player": "w6xl1ujw"
+      },
+      {
+        "player": "h059202p"
+      }
+    ]
+  },
+  {
+    "experimentid": 27,
+    "p": 2,
+    "n": 20,
+    "starttime": "10/3/17 17:07",
+    "duration": 28.98888889,
+    "activeplayers": [
+      {
+        "player": "vufl7v0n"
+      },
+      {
+        "player": "rp7bo3ru"
+      },
+      {
+        "player": "hhnk5ycs"
+      }
+    ]
+  },
+  {
+    "experimentid": 28,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/23/17 17:38",
+    "duration": 33.12222222,
+    "activeplayers": [
+      {
+        "player": "y7bxn78u"
+      },
+      {
+        "player": "bcp75knw"
+      },
+      {
+        "player": "2vse8nm6"
+      },
+      {
+        "player": "15xww5pd"
+      },
+      {
+        "player": "6cfzkgsf"
+      },
+      {
+        "player": "lxkmun48"
+      },
+      {
+        "player": "3488ewdm"
+      },
+      {
+        "player": "fdwmei07"
+      },
+      {
+        "player": "1bqpll5t"
+      },
+      {
+        "player": "is3wbkd9"
+      },
+      {
+        "player": "urfzayaz"
+      },
+      {
+        "player": "7kar76bb"
+      },
+      {
+        "player": "stzr8nht"
+      }
+    ]
+  },
+  {
+    "experimentid": 29,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/23/17 18:22",
+    "duration": 21.74047619,
+    "activeplayers": [
+      {
+        "player": "wcgqfsuu"
+      },
+      {
+        "player": "o47xqssj"
+      },
+      {
+        "player": "np2jcicb"
+      },
+      {
+        "player": "d22yf0w3"
+      },
+      {
+        "player": "y8batbm3"
+      },
+      {
+        "player": "4wc9qjh2"
+      },
+      {
+        "player": "4lv8u0n3"
+      },
+      {
+        "player": "gtez2hze"
+      }
+    ]
+  },
+  {
+    "experimentid": 30,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/24/17 2:49",
+    "duration": 34.36666667,
+    "activeplayers": [
+      {
+        "player": "qsiolbon"
+      },
+      {
+        "player": "j933dzk2"
+      },
+      {
+        "player": "2r578je0"
+      },
+      {
+        "player": "rrh677vv"
+      },
+      {
+        "player": "ucv5hqi7"
+      }
+    ]
+  },
+  {
+    "experimentid": 31,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/25/17 15:01",
+    "duration": 30.81666667,
+    "activeplayers": [
+      {
+        "player": "dmwsybqi"
+      },
+      {
+        "player": "hegdy1lg"
+      },
+      {
+        "player": "sr9dls1o"
+      },
+      {
+        "player": "crhwlmf0"
+      },
+      {
+        "player": "83i33zxz"
+      },
+      {
+        "player": "t9cke5k8"
+      },
+      {
+        "player": "uighlfuy"
+      },
+      {
+        "player": "tfxkpivc"
+      }
+    ]
+  },
+  {
+    "experimentid": 32,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/30/17 13:44",
+    "duration": 25.95833333,
+    "activeplayers": [
+      {
+        "player": "bmnvj14m"
+      },
+      {
+        "player": "xvf33pi2"
+      },
+      {
+        "player": "vj8lr9ls"
+      },
+      {
+        "player": "zgjw0n6d"
+      },
+      {
+        "player": "zhttk2dv"
+      },
+      {
+        "player": "x7a4j6b0"
+      },
+      {
+        "player": "nql1qfvw"
+      },
+      {
+        "player": "2iuuj70h"
+      },
+      {
+        "player": "sw4yadiv"
+      },
+      {
+        "player": "p4kjv7n9"
+      },
+      {
+        "player": "dfe3ncrb"
+      }
+    ]
+  },
+  {
+    "experimentid": 33,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/30/17 15:29",
+    "duration": 29.1537037,
+    "activeplayers": [
+      {
+        "player": "dawcmh2e"
+      },
+      {
+        "player": "ty8esa07"
+      },
+      {
+        "player": "fdx4gaj3"
+      },
+      {
+        "player": "w16hgvjs"
+      },
+      {
+        "player": "f3ttlek0"
+      },
+      {
+        "player": "zx5p8yu3"
+      },
+      {
+        "player": "xursetl5"
+      },
+      {
+        "player": "ks7b892w"
+      },
+      {
+        "player": "6m76ufbu"
+      }
+    ]
+  },
+  {
+    "experimentid": 34,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/30/17 16:34",
+    "duration": 30.92037037,
+    "activeplayers": [
+      {
+        "player": "xr0e5x1j"
+      },
+      {
+        "player": "ruuof6f9"
+      },
+      {
+        "player": "mpw6xtbm"
+      },
+      {
+        "player": "ek188zw3"
+      },
+      {
+        "player": "saqf5yxv"
+      },
+      {
+        "player": "vftuwh39"
+      },
+      {
+        "player": "h0d3wgt7"
+      },
+      {
+        "player": "7gm6ex2t"
+      },
+      {
+        "player": "c8vkhha8"
+      },
+      {
+        "player": "kgo6mj03"
+      },
+      {
+        "player": "wnpdmbq9"
+      },
+      {
+        "player": "v1nkt0dx"
+      }
+    ]
+  },
+  {
+    "experimentid": 35,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/30/17 19:52",
+    "duration": 28.61666667,
+    "activeplayers": [
+      {
+        "player": "ix6ibvbz"
+      },
+      {
+        "player": "haw0irc7"
+      },
+      {
+        "player": "m4x1nzbi"
+      },
+      {
+        "player": "kh67gjxi"
+      },
+      {
+        "player": "9a6nohpw"
+      }
+    ]
+  },
+  {
+    "experimentid": 36,
+    "p": 2,
+    "n": 15,
+    "starttime": "10/31/17 13:50",
+    "duration": 30.77777778,
+    "activeplayers": [
+      {
+        "player": "fbjsj3rq"
+      },
+      {
+        "player": "m98i1pr9"
+      },
+      {
+        "player": "p7uoo3ak"
+      },
+      {
+        "player": "38j5lhb0"
+      },
+      {
+        "player": "p7mezwmf"
+      },
+      {
+        "player": "v2v2j7t9"
+      },
+      {
+        "player": "kwbn03an"
+      },
+      {
+        "player": "rzfdvyls"
+      },
+      {
+        "player": "ahr3tm0p"
+      },
+      {
+        "player": "i4lss7fo"
+      }
+    ]
+  },
+  {
+    "experimentid": 37,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/1/17 14:59",
+    "duration": 31.71111111,
+    "activeplayers": [
+      {
+        "player": "m5zmpoqb"
+      },
+      {
+        "player": "p2ih5qzp"
+      },
+      {
+        "player": "kc8lzw0a"
+      },
+      {
+        "player": "2o2g0gw0"
+      },
+      {
+        "player": "7rxm30la"
+      },
+      {
+        "player": "uvttxyrj"
+      },
+      {
+        "player": "gtbd2jyd"
+      }
+    ]
+  },
+  {
+    "experimentid": 38,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/2/17 17:31",
+    "duration": 27.41666667,
+    "activeplayers": [
+      {
+        "player": "7hcfta18"
+      },
+      {
+        "player": "9fz91z5q"
+      },
+      {
+        "player": "v36wuj0r"
+      },
+      {
+        "player": "14aqu4ln"
+      }
+    ]
+  },
+  {
+    "experimentid": 39,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/6/17 16:14",
+    "duration": 24.29583333,
+    "activeplayers": [
+      {
+        "player": "8xq6jhv0"
+      },
+      {
+        "player": "6at3l73t"
+      },
+      {
+        "player": "9o0ptsg5"
+      },
+      {
+        "player": "5x1n3lt1"
+      },
+      {
+        "player": "jdeto2q5"
+      },
+      {
+        "player": "wx8f6zu6"
+      },
+      {
+        "player": "tmy9jzj3"
+      },
+      {
+        "player": "s3ux5822"
+      },
+      {
+        "player": "uqajr7ac"
+      },
+      {
+        "player": "e3z70brv"
+      }
+    ]
+  },
+  {
+    "experimentid": 40,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/6/17 18:09",
+    "duration": 29.08611111,
+    "activeplayers": [
+      {
+        "player": "fo3gm4va"
+      },
+      {
+        "player": "b99whmf4"
+      },
+      {
+        "player": "w1o8wuo8"
+      },
+      {
+        "player": "hokkd8y3"
+      },
+      {
+        "player": "a64ocxv1"
+      },
+      {
+        "player": "0i4b726f"
+      },
+      {
+        "player": "olyyhnv2"
+      }
+    ]
+  },
+  {
+    "experimentid": 41,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/8/17 16:56",
+    "duration": 26.38703704,
+    "activeplayers": [
+      {
+        "player": "r64uwqc0"
+      },
+      {
+        "player": "yicmk4t5"
+      },
+      {
+        "player": "pzkahusl"
+      },
+      {
+        "player": "g3izznjm"
+      },
+      {
+        "player": "qriaxmlf"
+      },
+      {
+        "player": "fy8szwfy"
+      },
+      {
+        "player": "mmglwd18"
+      },
+      {
+        "player": "1tevcium"
+      },
+      {
+        "player": "005ra0lh"
+      },
+      {
+        "player": "tjwcvaxw"
+      },
+      {
+        "player": "l13tty1q"
+      },
+      {
+        "player": "lo1mc087"
+      },
+      {
+        "player": "1wjpfzbr"
+      }
+    ]
+  },
+  {
+    "experimentid": 42,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/8/17 17:39",
+    "duration": 24.18666667,
+    "activeplayers": [
+      {
+        "player": "58pbqi72"
+      },
+      {
+        "player": "fzozrq78"
+      },
+      {
+        "player": "5w4z78qg"
+      },
+      {
+        "player": "fa3x8vws"
+      },
+      {
+        "player": "n9780srm"
+      },
+      {
+        "player": "qyjfzjf0"
+      },
+      {
+        "player": "kgoih4t2"
+      }
+    ]
+  },
+  {
+    "experimentid": 43,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/9/17 14:45",
+    "duration": 28.99583333,
+    "activeplayers": [
+      {
+        "player": "9swgwdek"
+      },
+      {
+        "player": "qxwczoys"
+      },
+      {
+        "player": "d64c656b"
+      },
+      {
+        "player": "sg1mdqle"
+      },
+      {
+        "player": "w9w3n40l"
+      },
+      {
+        "player": "os52kga7"
+      }
+    ]
+  },
+  {
+    "experimentid": 44,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/9/17 15:37",
+    "duration": 32.03333333,
+    "activeplayers": [
+      {
+        "player": "bvaw6zdw"
+      },
+      {
+        "player": "2221axy2"
+      },
+      {
+        "player": "dpd7xa34"
+      }
+    ]
+  },
+  {
+    "experimentid": 45,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/10/17 16:39",
+    "duration": 27.57666667,
+    "activeplayers": [
+      {
+        "player": "gfjnfk9a"
+      },
+      {
+        "player": "jiqmjihk"
+      },
+      {
+        "player": "y2itd27i"
+      },
+      {
+        "player": "11vzrsji"
+      },
+      {
+        "player": "tflltzur"
+      },
+      {
+        "player": "dx441g7t"
+      },
+      {
+        "player": "mthz9fip"
+      },
+      {
+        "player": "e8cnffbe"
+      },
+      {
+        "player": "820m1sgc"
+      }
+    ]
+  },
+  {
+    "experimentid": 46,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/13/17 13:59",
+    "duration": 29.39047619,
+    "activeplayers": [
+      {
+        "player": "wh2rigby"
+      },
+      {
+        "player": "57g3pg15"
+      },
+      {
+        "player": "aj8uq3gr"
+      },
+      {
+        "player": "tndhshiv"
+      },
+      {
+        "player": "gxpzkeow"
+      },
+      {
+        "player": "i324j631"
+      },
+      {
+        "player": "fm8q1der"
+      },
+      {
+        "player": "eybr1cxw"
+      },
+      {
+        "player": "rrrityqu"
+      },
+      {
+        "player": "exvqipbg"
+      }
+    ]
+  },
+  {
+    "experimentid": 47,
+    "p": 2,
+    "n": 15,
+    "starttime": "11/13/17 17:26",
+    "duration": 25.02666667,
+    "activeplayers": [
+      {
+        "player": "q3gyvlbx"
+      },
+      {
+        "player": "vjfywf35"
+      },
+      {
+        "player": "4joxyibd"
+      },
+      {
+        "player": "pi96dj16"
+      },
+      {
+        "player": "8d99huim"
+      },
+      {
+        "player": "5sv8k6l5"
+      }
+    ]
+  }
+]

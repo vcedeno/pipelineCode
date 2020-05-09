@@ -1,0 +1,45 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Experiments",
+    "description": "Experiment initial parameters",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+        "experimentid": {
+            "description": "The unique identifier for an experiment",
+            "type": "integer"
+        },
+        "p": {
+            "description": "Number of phases in experiment",
+            "type": "integer"
+        },
+        "n": {
+            "description": "Number of players in experiments",
+            "type": "integer"
+        },
+        "startime": {
+            "description": "Date and time of experiment",
+            "type": "string"
+        },
+        "duration": {
+            "description": "Experiment duration in minutes",
+            "type": "number"
+        },
+        "activeplayers" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"playerid": {
+            		"description": "Active player in experiment",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 }
+    },
+    "required": ["experimentid","p","n"]
+    }
+}
+

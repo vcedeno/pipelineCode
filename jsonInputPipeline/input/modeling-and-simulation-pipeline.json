@@ -1,0 +1,20 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h1",
+        		 "model0": "static",
+        		 "model0graph": "circleN15L1,circleN15L2,circleN15L3,circleN15L4",
+        		 "m0runs":100,
+        		 "m0discretetime":300,
+        		 "model1": "dynamic",
+        		 "model1graph": "circleN15L1,circleN15L2,circleN15L3,circleN15L4",
+        		 "m1runs":100,
+        		 "m1discretetime":300
+      		},
+      		{
+       			"function": "h2",
+        		 "models": "circleN15L1,circleN15L2,circleN15L3,circleN15L4"
+      		}
+    	]
+}

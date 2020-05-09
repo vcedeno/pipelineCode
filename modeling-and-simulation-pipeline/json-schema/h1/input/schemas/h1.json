@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "CDF for Action",
+    "description": "CDF for action in experiment",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    "probabilities" : {
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+    	"intial": {
+        "description": "row name",
+        "type": "string"
+        },
+        "values" : {
+    	"type": "array",
+    	"items" : {
+    	"type": "object",
+    	"properties": {
+    		"final": {
+            	"description": "The unique identifier for a phaseid",
+            	"type": "string"
+        			}
+       				}
+       		  	}
+     			}
+       	}
+       }
+    }  
+    	}
+      }
+}
+

@@ -1,0 +1,58 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Actions",
+    "description": "Actions during an experiment phase",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+        "phaseid": {
+            "description": "The unique identifier for a phase",
+            "type": "string"
+        },
+        "n": {
+            "description": "Number of players in phase",
+            "type": "integer"
+        },
+        "d": {
+            "description": "Number of connections between players",
+            "type": "integer"
+        },
+         "actionlist" : {
+           "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"player1": {
+            		"description": "Player that initiates the action",
+            		"type": "string"
+        			},
+        			"player2": {
+            		"description": "Player that receives the action",
+            		"type": "string"
+        			},
+        			"actionid": {
+            		"description": "action id",
+            		"type": "string"
+        			},
+        			"playerActionSeqid": {
+          		    "description": "Player unique action sequence",
+           	 		"type": "integer"
+        			},
+        			"timestamp": {
+           			 "description": "Timestamp of action",
+           			 "type": "number"
+        			},
+        			"payload": {
+            		"description": "payload",
+            		"type": "string"
+       				 }
+       			},
+       			"required": ["player1","actionid","playerActionSeqid","timestamp","payload"]
+       		}
+       	 }
+    },
+    "required": ["phaseid","n","d"]
+    }
+}
+

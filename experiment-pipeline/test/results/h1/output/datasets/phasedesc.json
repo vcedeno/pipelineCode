@@ -1,0 +1,117 @@
+[
+  {
+    "phaseid": "anagrams",
+    "beginparameters": [
+      {
+        "parameter": "letter1"
+      },
+      {
+        "parameter": "letter2"
+      },
+      {
+        "parameter": "letter3"
+      },
+      {
+        "parameter": "difi1distanceScale"
+      },
+      {
+        "parameter": "difi1overlapScale"
+      }
+    ],
+    "endparameters": [
+      {
+        "parameter": "numWords"
+      },
+      {
+        "parameter": "scrabblescore"
+      }
+    ],
+    "actions": [
+      {
+        "action": "word"
+      },
+      {
+        "action": "requestsent"
+      },
+      {
+        "action": "replysent"
+      }
+    ],
+    "synchronousactions": [
+      {
+        "actionrequest": "requestsent",
+        "actionreply": "replysent"
+      }
+    ],
+    "features": [
+      {
+        "feature": "XE"
+      },
+      {
+        "feature": "XB"
+      },
+      {
+        "feature": "XL"
+      },
+      {
+        "feature": "XW"
+      },
+      {
+        "feature": "XC"
+      },
+      {
+        "feature": "xReqS"
+      },
+      {
+        "feature": "xRpyR"
+      },
+      {
+        "feature": "xReqR"
+      },
+      {
+        "feature": "xRpyS"
+      }
+    ]
+  },
+  {
+    "phaseid": "publicgoods",
+    "beginparameters": [
+      {
+        "parameter": "difi2distanceScale"
+      },
+      {
+        "parameter": "difi2overlapScale"
+      }
+    ],
+    "endparameters": [
+      {
+        "parameter": "contribution"
+      },
+      {
+        "parameter": "profit"
+      },
+      {
+        "parameter": "difi3distanceScale"
+      },
+      {
+        "parameter": "difi3overlapScale"
+      }
+    ],
+    "actions": [
+      {
+        "action": ""
+      }
+    ],
+    "synchronousactions": [
+      {
+        "actionrequest": "",
+        "actionreply": ""
+      }
+    ],
+    "features": [
+      {
+        "feature": ""
+      }
+    ]
+  }
+]

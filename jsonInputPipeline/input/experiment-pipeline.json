@@ -1,0 +1,18 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h1",
+       			"path": "/experiment-pipeline/inputTransformation",
+        		"anagrams": "Anagrams",
+        		"CompletedSessionSummary": "CompletedSessionSummary",
+        		"InstructionsAnagrams": "InstructionsAnagrams",
+        		"LetterTransactions": "LetterTransactions",
+        		"Neighbors": "Neighbors",
+        		"PublicGoods": "PublicGoods",
+        		"TeamWords": "TeamWords",
+        		"TimeSpent": "TimeSpent",
+        		"UserLetters": "UserLetters"
+      		}
+    	]
+}

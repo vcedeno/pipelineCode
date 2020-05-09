@@ -1,0 +1,106 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "ngs2-data-analytics-1-1#",
+    "type": "object",
+    "definitions": {
+        "VolumeServiceFileReference": {
+            "id": "VolumeServiceFileReference#",
+            "description": "Reference to a VolumeService File",
+            "definitions": {
+                "VolumeServiceFileURL": {
+                    "description": "URL pointing at Volume Service File",
+                    "type": "string",
+                    "format": "uri"
+                },
+                "VolumeServiceFileID": {
+                    "description": "UUID of a vs file.  When an ID is used instead of a URL, services will assume their default configured VS as the container for this item",
+                    "type": "string",
+                    "format": "uuid"
+                }
+            },
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "string"
+                }
+            ]
+        }
+    },
+    "properties": {
+        "experiment": {
+            "type": "string",
+            "description": "Experiments description file"
+        },
+        "phasedesc": {
+            "type": "string",
+            "description": "Phases description file"
+        },
+        "phase": {
+            "type": "string",
+            "description": "Phases registration file"
+        },
+        "action": {
+            "type": "string",
+            "description": "Actions registration file"
+        },
+        "player": {
+            "type": "string",
+            "description": "Players parameters registration file"
+        },
+        "functions": {
+            "type": "array",
+            "description": "Functions to be run for this pipeline",
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "function": {
+                        "description": "Pipeline functions to execute",
+                        "type": "string",
+                        "enum": [
+                            "h1",
+                            "h2",
+                            "h3",
+                            "h4",
+                            "h5",
+                            "h6",
+                            "h7",
+                            "h8",
+                            "h9",
+                            "h10",
+                            "h11",
+                            "h12",
+                            "h13",
+                            "h14"                         
+                        ]
+                    },
+                    "actionId": {
+                        "type": "string",
+                        "description": "Required for h2, h3, h4, h5, h6"
+                    },
+                    "windowSize": {
+                        "type": "integer",
+                        "description": "Required for h3, h4, h7"
+                    }
+                    ,
+                    "bin": {
+                        "type": "integer",
+                        "description": "Required for h5, h6"
+                    }
+                },
+                "required": [
+                    "function"
+                ]
+            }
+        }
+    },
+    "required": [
+        "experiment",
+        "phasedesc",
+        "phase",
+        "player",
+        "functions"
+    ]
+}

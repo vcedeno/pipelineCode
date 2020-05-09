@@ -1,0 +1,74 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "ngs2-data-analytics-1-1#",
+    "type": "object",
+    "definitions": {
+        "VolumeServiceFileReference": {
+            "id": "VolumeServiceFileReference#",
+            "description": "Reference to a VolumeService File",
+            "definitions": {
+                "VolumeServiceFileURL": {
+                    "description": "URL pointing at Volume Service File",
+                    "type": "string",
+                    "format": "uri"
+                },
+                "VolumeServiceFileID": {
+                    "description": "UUID of a vs file.  When an ID is used instead of a URL, services will assume their default configured VS as the container for this item",
+                    "type": "string",
+                    "format": "uuid"
+                }
+            },
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "string"
+                }
+            ]
+        }
+    },
+    "properties": {
+        "functions": {
+            "type": "array",
+            "description": "Functions to be run for this pipeline",
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "function": {
+                        "description": "Pipeline functions to execute",
+                        "type": "string",
+                        "enum": [
+                            "h1",
+                            "h2"
+                        ]
+                    },
+                    "experimentspath": {
+            		"type": "string",
+            		"description": "experiments path"
+        			},
+        			"experiments": {
+            		"type": "string",
+            		"description": "experiments"
+        			},
+        			"model": {
+            		"type": "string",
+            		"description": "model to compare"
+        			},
+        			"modelcompare": {
+            		"type": "string",
+            		"description": "model compare"
+        			},
+                    "simulations": {
+                        "type": "string",
+                        "description": "simulations list"
+                    }
+                },
+                "required": [
+                    "function"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Phases",
+    "description": "Phases in an experiment",
+    "type": "array",
+    "items" : {
+    "type": "object",
+    "properties": {
+        "phaseid": {
+            "description": "The unique identifier for a phase",
+            "type": "string"
+        },
+        "beginparameters" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"parameter": {
+            		"description": "Beginning parameters in phase",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	"endparameters" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"parameter": {
+            		"description": "End parameters in phase",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	"actions" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"action": {
+            		"description": "Actions in phase",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	 "synchronousactions" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"actionrequest": {
+            		"description": "Action request id",
+            		"type": "string"
+        			},
+        			"actionreply": {
+            		"description": "Action reply id",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 },
+       	"features" : {
+          "type" : "array",
+           "items" : {
+               "type" : "object",
+               "properties" : {
+        	   		"feature": {
+            		"description": "feature vector for models",
+            		"type": "string"
+        			}
+       			}
+       		}
+       	 }
+    },
+    "required": ["phaseid"]
+    }
+}
+

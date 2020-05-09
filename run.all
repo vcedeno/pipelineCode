@@ -1,0 +1,7 @@
+echo 'START experiment-pipeline'
+python3 experiment-pipeline/src/experiment-pipeline.py jsonInputPipeline/input/experiment-pipeline.json
+echo 'DONE experiment-pipeline'
+echo 'START data-analytics-pipeline'
+python3 data-analytics-pipeline/src/data-analytics-pipeline.py jsonInputPipeline/input/data-analytics-pipeline.json
+echo 'DONE data-analytics-pipeline'
+
